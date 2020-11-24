@@ -1,0 +1,21 @@
+{
+  "name": "trading-bot-1",
+  "version": "1.0.0",
+  "description": "A market making crypto trading bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot",
+    "crypto",
+    "trading"
+  ],
+  "author": "Darren Jensen <darren.jensen@devbootstrap.com>",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "ccxt": "^1.38.13",
+    "dotenv": "^8.2.0"
+  }
+}
